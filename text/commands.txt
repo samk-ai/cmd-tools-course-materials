@@ -1,0 +1,4 @@
+Some good commands:
+- ls
+- cd
+- mv
